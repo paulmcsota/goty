@@ -3,7 +3,18 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+   production: false,
+   url: 'http://localhost:5000/goty-a6e79/us-central1',
+   firebase: {
+      apiKey: 'AIzaSyAJTcAF5HYXSmAtERvJ3xfMgAuKxNFMZ48',
+      authDomain: 'goty-a6e79.firebaseapp.com',
+      databaseURL: 'https://goty-a6e79.firebaseio.com',
+      projectId: 'goty-a6e79',
+      storageBucket: 'goty-a6e79.appspot.com',
+      messagingSenderId: '1094540051974',
+      appId: '1:1094540051974:web:5beaf77d0ca33bed972587',
+      measurementId: 'G-22H2GVJ4Z3'
+   }
 };
 
 /*

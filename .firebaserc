@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "goty-a6e79": {
+      "hosting": {
+        "goty": [
+          "goty-a6e79"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "goty-a6e79"
+  }
+}
